@@ -40,7 +40,7 @@ Object-Oriented Programming & Design Patterns
 
 📌 Featured Projects
 
-🔗 Full Stack Todo Web App
+🔗 https://github.com/sonukumar5043/Full_Stack_TodoWeb-Project-using_SpringBoot
  – Built using Spring Boot, JSP, MySQL, and AWS
 
 🔗 Authentication System using Spring Boot
