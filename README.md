@@ -40,10 +40,12 @@ Object-Oriented Programming & Design Patterns
 
 📌 Featured Projects
 
-🔗 https://github.com/sonukumar5043/Full_Stack_TodoWeb-Project-using_SpringBoot
+🔗Full_Stack_TodoWeb-Project-using-SpringBoot
+https://github.com/sonukumar5043/Full_Stack_TodoWeb-Project-using_SpringBoot
  – Built using Spring Boot, JSP, MySQL, and AWS
 
 🔗 Authentication System using Spring Boot
+ https://github.com/sonukumar5043/authentication-system-Project-using-Springboot
  – Login system with Spring Security and JPA
 
 🔗 Amazon Homepage Clone
