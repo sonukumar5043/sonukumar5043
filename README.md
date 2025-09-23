@@ -9,12 +9,19 @@
 ⚡ Tech Stack & Tools
 
 Languages: Java, Python, JavaScript
+
 Frameworks & Libraries: Spring Boot, Spring MVC, Spring Security, Jpa, React
+
 Frontend: JSP, HTML, CSS, JavaScript
+
 Database: MySQL
+
 Version Control: Git, GitHub
+
 Cloud & Deployment: AWS (S3, RDS, Elastic Beanstalk)
+
 API & Testing Tools: Postman, API testing
+
 Concepts Learned & Used:
 
 Full Stack Development (Frontend + Backend + Database)
