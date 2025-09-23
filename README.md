@@ -1,30 +1,48 @@
-# 👋 Hi, I’m Sonu Kumar  
+👋 Hi, I’m Sonu Kumar
 
-💻 **4rd Year Computer Science Engineering Student**  
-🚀 Passionate about **Java, Spring Boot, Full Stack Development**  
-📚 Currently building: **Full Stack Todo Management Web App**  
-🌱 Learning: **React, Microservices, and DevOps**  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:youremail@gmail.com)
+💻 Final Year Computer Science Engineering Student
+🚀 Passionate about Java, Spring Boot, Full Stack Development, and Cloud (AWS)
+📚 Currently completed: Full Stack Todo Management Web App
+🌱 Learning: React, Microservices, and DevOps
 
----
 
-### ⚡ Tech Stack  
-- **Languages**: Java, Python, JavaScript  
-- **Backend**: Spring Boot, JPA, Hibernate  
-- **Frontend**: React, HTML, CSS, JS  
-- **Database**: MySQL  
-- **Cloud**: AWS (EC2, S3, RDS, Beanstalk)  
+⚡ Tech Stack & Tools
 
----
+Languages: Java, Python, JavaScript
+Frameworks & Libraries: Spring Boot, Spring MVC, Spring Security, Jpa, React
+Frontend: JSP, HTML, CSS, JavaScript
+Database: MySQL
+Version Control: Git, GitHub
+Cloud & Deployment: AWS (S3, RDS, Elastic Beanstalk)
+API & Testing Tools: Postman, API testing
+Concepts Learned & Used:
 
-### 📌 Featured Projects  
-- 🔗 [Full Stack Todo Web App](https://github.com/sonukumar5043/Full_Stack_TodoWeb-Project-using-SpringBoot)  
-- 🔗 [Authentication System using Spring Boot](https://github.com/sonukumar5043/authentication-system-Project-using-Springboot)  
-- 🔗 [Amazon Homepage Clone](https://github.com/sonukumar5043/Amazon-Home-page-clone-Project)  
+Full Stack Development (Frontend + Backend + Database)
 
----
+REST APIs, MVC Architecture
 
-⭐️ *“Always learning, always building!”*  
+Authentication & Authorization
+
+CRUD Operations (Create, Read, Update, Delete)
+
+Session Management
+
+Cloud Hosting and Deployment
+
+Object-Oriented Programming & Design Patterns
+
+📌 Featured Projects
+
+🔗 Full Stack Todo Web App
+ – Built using Spring Boot, JSP, MySQL, and AWS
+
+🔗 Authentication System using Spring Boot
+ – Login system with Spring Security and JPA
+
+🔗 Amazon Homepage Clone
+ – Frontend project replicating Amazon UI using HTML & CSS
+
+⭐️ “Always learning, always building!”
 
 
 
