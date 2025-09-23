@@ -49,6 +49,7 @@ https://github.com/sonukumar5043/Full_Stack_TodoWeb-Project-using_SpringBoot
  – Login system with Spring Security and JPA
 
 🔗 Amazon Homepage Clone
+https://github.com/sonukumar5043/Amazon-Home-page-clone-Project
  – Frontend project replicating Amazon UI using HTML & CSS
 
 ⭐️ “Always learning, always building!”
