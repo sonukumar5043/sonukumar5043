@@ -1,6 +1,6 @@
 👋 Hi, I’m Sonu Kumar
 
-💻 Final Year Computer Science Engineering Student
+💻 A Computer Science Engineering Student
 🚀 Passionate about Java, Spring Boot, Full Stack Development, and AWS
 📚 Completed: Full Stack Todo Management Web App
 🌱 Currently learning: React, Microservices, and DevOps
@@ -29,9 +29,9 @@ https://github.com/sonukumar5043/Full_Stack_TodoWeb-Project-using_SpringBoot
  https://github.com/sonukumar5043/authentication-system-Project-using-Springboot
  – Spring MVC + JPA login system
 
-🔗 Amazon Homepage Clone
-https://github.com/sonukumar5043/Amazon-Home-page-clone-Project
- – Front-end UI clone using HTML & CSS
+🔗 Ai_Chatbot
+https://github.com/sonukumar5043/Ai-chatbot
+
 
 ⭐ “Always learning, always building, always improving!”
 
