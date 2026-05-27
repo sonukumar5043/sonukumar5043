@@ -1,23 +1,16 @@
 👋 Hi, I’m Sonu Kumar
 
-💻 A Computer Science Engineering Student
-🚀 Passionate about Java, Spring Boot, Full Stack Development, and AWS
-📚 Completed: Full Stack Todo Management Web App
-🌱 Currently learning: React, Microservices, and DevOps
-🔧 Tools & Concepts: Postman, API Testing, JPA, Hibernate, MySQL, Spring Security
+B.Tech CSE Graduate | Java Backend & Full Stack Enthusiast
+
+Passionate about building scalable applications using Java, Spring Boot, REST APIs, and modern web technologies. Interested in Backend Development, Full Stack Development, AI/ML, and Cloud Computing (AWS).
+
+Built projects involving Spring Boot, Machine Learning, and Web Development.
+
+Currently exploring React, Microservices, DevOps, and Cloud practices.
+
+Skills: Java, Spring Boot, Hibernate, JPA, MySQL, Spring Security, Postman, Git/GitHub, API Testing.
 
 
-⚡ Tech Stack
-
-Languages: Java, Python, JavaScript
-
-Backend: Spring Boot, JPA, Hibernate
-
-Frontend: React, HTML, CSS, JS
-
-Database: MySQL
-
-Cloud: AWS (EC2, S3, RDS, Beanstalk)
 
 📌 Featured Projects
 
