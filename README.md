@@ -8,7 +8,6 @@ Built projects involving Spring Boot, Machine Learning, and Web Development.
 
 Currently exploring React, Microservices, DevOps, and Cloud practices.
 
-Skills: Java, Spring Boot, JPA, MySQL, Spring Security, Postman, Git/GitHub, API Testing.
 
 
 
